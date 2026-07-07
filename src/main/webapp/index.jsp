@@ -829,8 +829,8 @@
             <h1>Alankruthii Collection 2026</h1>
             <p>Discover the latest trends in fashion, home decor, interior wall art</p>
             <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">Shop Now</a>
-                <a href="#" class="btn btn-secondary">Explore Deals</a>
+                <a href="#" class="btn btn-primary">Order Now</a>
+                <a href="#" class="btn btn-secondary">Explore more</a>
             </div>
         </div>
     </section>
