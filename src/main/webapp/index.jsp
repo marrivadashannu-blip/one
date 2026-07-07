@@ -830,7 +830,7 @@
             <p>Discover the latest trends in fashion, home decor, interior wall art</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Order Now</a>
-                <a href="#" class="btn btn-secondary">Explore</a>
+                <a href="#" class="btn btn-secondary">Explore more!</a>
             </div>
         </div>
     </section>
