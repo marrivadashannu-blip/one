@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>8.6.10</version>
+	<version>8.6.9</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
@@ -39,7 +39,7 @@
 	
 	<pluginRepositories>
 	    <pluginRepository>    
-		<id>maven2</id>
+		<id>maven</id>
 		<name>Maven.org</name>
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
