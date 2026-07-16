@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Alankruthii Collections</h1>
+            <h1>Alankruthii Collections 2026</h1>
             <p>Discover the latest trends in fashion, home decor, interior wall art</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Order Now</a>
